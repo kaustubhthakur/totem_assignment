@@ -1,0 +1,31 @@
+AI-Driven Features Comparison
+Personalization Depth
+
+TSP Solver: Highest - Multi-dimensional user behavior analysis
+Cycle Detection: Medium - Graph pattern recognition and algorithm selection
+Median Finder: Medium - Stream pattern analysis and optimization mode selection
+
+Adaptation Speed
+
+Median Finder: Fastest - Real-time optimization mode switching
+Cycle Detection: Medium - Algorithm selection based on graph characteristics
+TSP Solver: Gradual - Learns from multiple problem instances
+
+┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+│   User Events   │───▶│ Personalization │───▶│   LLM Adapter   │
+│                 │    │     Engine      │    │                 │
+└─────────────────┘    └─────────────────┘    └─────────────────┘
+         │                       │                       │
+         ▼                       ▼                       ▼
+┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+│   Data Store    │    │  A/B Testing    │    │  Content Cache  │
+│                 │    │    Manager      │    │                 │
+└─────────────────┘    └─────────────────┘    └─────────────────┘
+
+Real-Time Processing: Instant user profile updates with event streaming
+LLM Integration: Seamless content personalization using language models
+A/B Testing: Segment-aware experimentation framework
+Security: JWT auth, encryption, rate limiting, RBAC
+Fault Tolerance: Circuit breakers, retry mechanisms, graceful degradation
+Scalability: Async processing, caching, concurrent execution
+Monitoring: Health metrics, performance tracking, adaptive logging
